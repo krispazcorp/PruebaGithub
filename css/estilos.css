@@ -1,5 +1,6 @@
 body
 {
+ background: #1e1f24;
  color: rgb(98, 96, 190);
  text-align: center;
  font-family: Arial, Helvetica, sans-serif;   
@@ -17,7 +18,7 @@ body
 
 #container h1
 {
-    font-size: 24px;
+    font-size: 34px;
 }
 
 #cabecera
@@ -30,8 +31,21 @@ body
     font-weight: bold;
 
 }
+#cabecera #logo
+{
+    width: 20px;
+    vertical-align: middle;
+}
 
 #cabecera #tagline
 {
-    font-weight:12 ;
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-weight:0.8em ;
+}
+
+#post 
+{
+    background: white;
+    padding: 0.5em;
 }
