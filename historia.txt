@@ -3,3 +3,5 @@ esta es una prueba de git
 primer commit
 
 despues del git reset
+
+este es el aporte de Isrel Pazmiño tambien y trabajo colaborativamente
