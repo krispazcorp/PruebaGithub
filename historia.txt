@@ -5,6 +5,8 @@ primer commit
 despues del git reset
  
  Experimento 1
+
+ Experimento 2
 Master 1 
 
 master2 
