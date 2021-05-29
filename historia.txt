@@ -3,7 +3,8 @@ esta es una prueba de git
 primer commit
 
 despues del git reset
-
+ 
+ Experimento 1
 Master 1 
 
 master2 
