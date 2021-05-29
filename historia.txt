@@ -4,4 +4,6 @@ primer commit
 
 despues del git reset
 
+Master 1 
+
 este es el aporte de Isrel Pazmiño tambien y trabajo colaborativamente , algo paso y no se q es 
